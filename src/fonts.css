@@ -1,0 +1,231 @@
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('./fonts/NotoSerif-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('./fonts/Lato-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Jost', 'Jost Medium', 'Jost SemiBold';
+    src: url('./fonts/Jost-VariableFont.ttf');
+}
+
+@font-face {
+    font-family: 'Fragment Mono';
+    src: url('./fonts/FragmentMono-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Playfair Display', 'Playfair Display Medium';
+    src: url('./fonts/PlayfairDisplay-VariableFont.ttf');
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    src: url('./fonts/PTSerif-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('./fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('./fonts/Vollkorn-VariableFont.ttf');
+}
+
+.Font-Arial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1.Font-Arial,
+h2.Font-Arial,
+h3.Font-Arial {
+    font-weight: bold;
+}
+
+h4.Font-Arial,
+h5.Font-Arial,
+h6.Font-Arial {
+    font-weight: bolder;
+}
+
+.Font-TimesNewRoman {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1.Font-TimesNewRoman,
+h2.Font-TimesNewRoman,
+h3.Font-TimesNewRoman {
+    font-weight: bold;
+}
+
+h4.Font-TimesNewRoman,
+h5.Font-TimesNewRoman,
+h6.Font-TimesNewRoman {
+    font-weight: bolder;
+}
+
+.Font-FranklinGothic {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1.Font-FranklinGothic,
+h2.Font-FranklinGothic,
+h3.Font-FranklinGothic {
+    font-weight: bold;
+}
+
+h4.Font-FranklinGothic,
+h5.Font-FranklinGothic,
+h6.Font-FranklinGothic {
+    font-weight: bolder;
+}
+
+.Font-NotoSerif {
+    font-family: 'Noto Serif';
+}
+
+h1.Font-NotoSerif,
+h2.Font-NotoSerif,
+h3.Font-NotoSerif {
+    font-weight: bold;
+}
+
+h4.Font-NotoSerif,
+h5.Font-NotoSerif,
+h6.Font-NotoSerif {
+    font-weight: bolder;
+}
+
+.Font-Lato {
+    font-family: 'Lato';
+}
+
+h1.Font-Lato,
+h2.Font-Lato,
+h3.Font-Lato {
+    font-weight: bold;
+}
+
+h4.Font-Lato,
+h5.Font-Lato,
+h6.Font-Lato {
+    font-weight: bolder;
+}
+
+.Font-Jost {
+    font-family: 'Jost';
+}
+
+h1.Font-Jost,
+h2.Font-Jost,
+h3.Font-Jost {
+    font-weight: bold;
+}
+
+h4.Font-Jost,
+h5.Font-Jost,
+h6.Font-Jost {
+    font-weight: bolder;
+}
+
+.Font-FragmentMono {
+    font-family: 'Fragment Mono';
+}
+
+h1.Font-FragmentMono,
+h2.Font-FragmentMono,
+h3.Font-FragmentMono {
+    font-weight: bold;
+}
+
+h4.Font-FragmentMono,
+h5.Font-FragmentMono,
+h6.Font-FragmentMono {
+    font-weight: bolder;
+}
+
+.Font-OpenSans {
+    font-family: 'Open Sans';
+}
+
+h1.Font-OpenSans,
+h2.Font-OpenSans,
+h3.Font-OpenSans {
+    font-weight: bold;
+}
+
+h4.Font-OpenSans,
+h5.Font-OpenSans,
+h6.Font-OpenSans {
+    font-weight: bolder;
+}
+
+.Font-Playfair {
+    font-family: 'Playfair Display';
+}
+
+h1.Font-Playfair,
+h2.Font-Playfair,
+h3.Font-Playfair {
+    font-weight: bold;
+}
+
+h4.Font-Playfair,
+h5.Font-Playfair,
+h6.Font-Playfair {
+    font-weight: bolder;
+}
+
+.Font-PTSerif {
+    font-family: 'PT Serif';
+}
+
+h1.Font-PTSerif,
+h2.Font-PTSerif,
+h3.Font-PTSerif {
+    font-weight: bold;
+}
+
+h4.Font-PTSerif,
+h5.Font-PTSerif,
+h6.Font-PTSerif {
+    font-weight: bolder;
+}
+
+.Font-Roboto {
+    font-family: 'Roboto';
+}
+
+h1.Font-Roboto,
+h2.Font-Roboto,
+h3.Font-Roboto {
+    font-weight: bold;
+}
+
+h4.Font-Roboto,
+h5.Font-Roboto,
+h6.Font-Roboto {
+    font-weight: bolder;
+}
+
+.Font-Vollkorn {
+    font-family: 'Vollkorn';
+}
+
+h1.Font-Vollkorn,
+h2.Font-Vollkorn,
+h3.Font-Vollkorn {
+    font-weight: bold;
+}
+
+h4.Font-Vollkorn,
+h5.Font-Vollkorn,
+h6.Font-Vollkorn {
+    font-weight: bolder;
+}
